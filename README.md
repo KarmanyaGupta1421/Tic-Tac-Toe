@@ -20,7 +20,7 @@ Welcome to the Tic Tac Toe game implemented in Python using the tkinter library!
     ```
 - Execute the [file](tic_tac_toe_4.0.py)
     ```
-    python main.py
+    python tic_tac_toe_4.0.py
     ```
 
 Happy gaming!
